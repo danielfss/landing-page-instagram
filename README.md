@@ -2,4 +2,4 @@
 
 ## HTML + CSS
 
-### Tutorial elaborado pela Gabriela Pinheiro na plataforma Digital Innovation One.
+### Tutorial de Flexbox CSS, elaborado pela Gabriela Pinheiro na plataforma Digital Innovation One.
