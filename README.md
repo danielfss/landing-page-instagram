@@ -1,4 +1,5 @@
 # landing-page-instagram
-Tutorial elaborado pela Gabriela Pinheiro na plataforma Digital Innovation One.
+
+## HTML + CSS
 
 ### Tutorial elaborado pela Gabriela Pinheiro na plataforma Digital Innovation One.
